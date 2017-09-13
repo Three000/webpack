@@ -1,0 +1,22 @@
+{
+  "name": "webpackdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://baibingzhang:niceboy1Q@github.com/baibingzhang/webpack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baibingzhang/webpack/issues"
+  },
+  "homepage": "https://github.com/baibingzhang/webpack#readme",
+  "devDependencies": {
+    "webpack": "^3.5.6"
+  }
+}
